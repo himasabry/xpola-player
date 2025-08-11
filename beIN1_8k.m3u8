@@ -1,3 +1,5 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
 https://prod-fastly-eu-central-1.video.pscp.tv///Transcoding///v1///hls///czyQ3K7MAKcPqC-MTsWhGUlqhjTQ6JlLIxUOfQtrTfLUmCcc5wBmxWi_xVrUU_ZUUsd8swP4PUZBsGbtpa6wcg///transcode///eu-central-1///periscope-replay-direct-prod-eu-central-1-public///eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4///dynamic_highlatency.m3u8?type=live
+#EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
+http://cdnvine.com:8080/bn1hd/tracks-v1a1/mono.m3u8
