@@ -1,1 +1,4 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
+http://fuego-iptv.net/play/live.php?mac=00:1A:79:CB:46:ED&stream=1630677&extension=m3u8
 
